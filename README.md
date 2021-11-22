@@ -7,9 +7,20 @@ Cujo objetivo era criar uma rede social para a escola, com a finalidade dos usu�
   
 </div>
 
+##
+### - Funcionalidades implementadas
+- Cadastro
+- Login
+- Sistema de Email
+- Sistema de Bate-Papo
+- Sistema de Amizade
+- Perfil configurável
+- Privacidade configurável
+- Temas de site
+
 ---
 
-
+<!----------------------------------------------------------------------------------------- TABELA -->
 <table>
   <tr>
     <th colspan="3" align="center">Participantes</th>
