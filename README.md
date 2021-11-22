@@ -32,9 +32,9 @@ Cujo objetivo era criar uma rede social para a escola, com a finalidade dos usu√
 ---
 
 <!----------------------------------------------------------------------------------------- TABELA -->
-<table>
+<table align="center">
   <tr>
-    <th colspan="3" align="center">Participantes</th>
+    <th colspan="3" align="center">Cr√©ditos</th>
   </tr>
   <!-- row 1 -->
   <tr>
