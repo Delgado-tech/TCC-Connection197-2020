@@ -11,12 +11,23 @@ Cujo objetivo era criar uma rede social para a escola, com a finalidade dos usu�
 ### - Funcionalidades implementadas
 - Cadastro
 - Login
-- Sistema de Email
+- Sistema de envio de Email
 - Sistema de Bate-Papo
 - Sistema de Amizade
-- Perfil configurável
-- Privacidade configurável
+- Configurações de perfil
+- Configurações de privacidade
 - Temas de site
+
+##
+### - Funcionalidades NÃO implementadas
+> Funcionalidade que gostariamos de ter implementado se tivessemos mais tempo
+- Aba para professores criarem blogs/ tutoriais de aulas
+- Aba de perfil
+- Bate-papo de grupo
+- Envio e armazenamento de trabalhos
+- Feed de postagens
+- Sistema de level, bandagens, etc.
+- Sistema de tarefas
 
 ---
 
