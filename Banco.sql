@@ -1,4 +1,3 @@
-drop database chat;
 create database chat;
 use chat;
 
