@@ -6,7 +6,7 @@
 
 # Sumário
 > - **<a href="#cadLog">Cadastro/ Login</a>**
-> - **<a href="#cadLog">Sistema de Bate-Papo</a>**
+> - **<a href="#chat">Sistema de Bate-Papo</a>**
 > - **<a href="#cadLog">Sistema de Amizade</a>**
 > - **<a href="#cadLog">Configurações de perfil</a>**
 > - **<a href="#cadLog">Configurações de privacidade</a>**
@@ -34,3 +34,9 @@
 </div>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
+
+<span id="chat"></span>
+  
+### Sistema de Bate-Papo
+  
+  
