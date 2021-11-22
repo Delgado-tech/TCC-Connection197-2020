@@ -1,5 +1,5 @@
 ## <img src="https://user-images.githubusercontent.com/60985347/142907651-e727eac6-0250-43be-ab9d-026f8a59f880.png" width="3%" align="center"/> Connection 197
-Foi o nome do projeto realizado junto de meus colegas referente a escola Etec Elias Miguel Junior na conclusão de curso do ano de 2020 (TCC).
+Connection197 foi o nome do projeto realizado junto de meus colegas referente a escola Etec Elias Miguel Junior no Trabalho de Conclusão de Curso (TCC) do ano de 2020.
 
 <table>
   <tr>
