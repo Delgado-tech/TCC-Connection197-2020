@@ -1,0 +1,99 @@
+.chatGrupo{
+	position: fixed;
+	top: 75px;
+	right: 0;
+	height: 100%;
+	width: 300px;
+	border: 1px solid black;
+	border-radius: 10px 10px 0 0;
+}
+.infoGrupoChat{
+	border-bottom: 1px solid black;
+	height: 100px;	
+}
+.nomeGrupo{
+	position: absolute;
+	right: 50px;
+	top: 15px;
+	font-size: 18px;
+	color: var(--colorBaW);
+}
+.fotoGrupo{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	height: 80px;
+	width: 80px;
+	background-color: var(--backgroudColorSmooth);
+}
+.fotoGrupo img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+	border-radius: 10px;
+
+}
+.nomeUser{
+	font-size: 16px;
+	color: var(--colorBaW);
+}
+.menssagem{
+	width: 245px;
+	border: 1px solid #696969;
+	border-radius: 5px; 
+	padding: 5px;
+	color: var(--colorBaW);
+}
+.envio{
+	margin-right: 10px;
+	color: var(--colorBaW);
+}
+.Left{
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.emoji{
+	position: fixed;
+	bottom: 10px;
+	margin-left: 5px;
+	height: 30px;
+	width: 30px;
+	background-color: transparent;
+}
+.emoji img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+	filter: var(--invertImg);
+}
+.digitarMenssagem input{
+	position: fixed;
+	width: 200px;
+	height: 30px;
+	margin-left: 40px;
+	bottom: 10px;
+	border: none;
+	box-shadow: 0 0 0 0;
+	border: 0 none;
+	outline: 0;
+	border-bottom: var(--colorBaW) 1px solid;
+	color: var(--colorBaW);
+	background-color: transparent;
+}
+::-webkit-input-placeholder {
+   color: black;
+}
+.enviar{
+	position: fixed;
+	bottom: 10px;
+	margin-left: 260px;
+	height: 30px;
+	width: 30px;
+	background-color: transparent;
+}
+.enviar img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+	filter: var(--invertImg);
+}

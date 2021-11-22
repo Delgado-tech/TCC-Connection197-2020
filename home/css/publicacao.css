@@ -1,0 +1,136 @@
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.timeLine{
+	margin-top: 100px;
+}
+.publicacao{ 
+	margin-top: 50px;
+	width: 700px;
+	height: 500px;
+	border: 1px solid black;
+	border-radius: 20px;
+	background-color: var(--backgroudColor);
+}
+.headerPub{
+	margin-top: 5px;
+	display: inline-block;
+	height: 80px;
+	width: 700px;
+}
+.fotoPub{
+	margin-left: 5px;
+	position: relative;
+	left: 1%;
+	top: 1%;
+	height: 80px;
+	width: 80px;
+	border-radius: 20px;
+	float: left;
+	background-color: var(--backgroudColorSmooth);
+}
+.fotoPub img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+	border-radius: 20px;
+}
+.infoPub{
+	float: right;
+	width: 600px;
+	height: 25px;
+}
+.identPub{
+	font-size: 18px;
+	height: 70px;
+	width: auto;
+}
+.nomePub{
+	float: left;
+	color: var(--colorBaW);
+}
+.userPub{
+	margin-left: 10px;
+	float: left;
+	opacity: 75%;
+	color: var(--colorBaW);
+}
+.dataPub{
+	float: right;
+	margin-right: 10px;
+	opacity: 75%;
+	color: var(--colorBaW);
+}
+.descricao{
+	position: relative;
+	font-size: 16px;
+	width: 560px;
+	height: 65px;
+	margin-left: 100px;
+	color: var(--colorBaW);
+	word-wrap: break-word; /* alterar para normal */
+}
+.pub{
+	width: 600px;
+	height: 350px;
+	margin-left: 50px;
+
+	position: relative;
+	border-radius: 20px;
+	background-color: var(--backgroudColorSmooth);
+}
+.pub img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+	border-radius: 20px;
+}
+.bottomPub{
+	height: 40px;
+	width: 130px;
+	margin-left: 50px;
+	margin-top: 5px;
+}
+.like{
+	height: 40px;
+	width: 40px;
+	float: left;
+	background-color: transparent;
+}
+.like img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+
+	filter: var(--invertImg);
+}
+.comment{
+	height: 40px;
+	width: 40px;
+	margin-left: 5px;
+	background-color: transparent;
+	float: left;
+}
+.comment img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+
+	filter: var(--invertImg);
+}
+.send{
+	height: 40px;
+	width: 40px;
+	margin-left: 5px;
+	float: right;
+	background-color: transparent;
+}
+.send img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+
+	filter: var(--invertImg);
+}

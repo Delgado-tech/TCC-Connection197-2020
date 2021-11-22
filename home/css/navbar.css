@@ -1,0 +1,32 @@
+
+.navbar{
+	position: fixed;
+	top: 0;
+	height: 70px;
+	width: 100%;
+	background-color: var(--backgroudColor);
+	z-index: 1;
+}
+#logo{
+	position: absolute;
+	left: 5%;
+	filter: var(--invertImg);
+}
+#icoHome{ 
+	position: absolute;
+	left: 30%;
+	height: 70px;
+	filter: var(--invertImg);
+}
+#icoGroup{
+	position: absolute;
+	left: 45%;
+	height: 70px;
+	filter: var(--invertImg);
+}
+#icoPerfil{
+	position: absolute;
+	left: 60%;
+	height: 70px;
+	filter: var(--invertImg);
+}

@@ -1,0 +1,80 @@
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.perfil{
+	position: absolute;
+	top: 100px;
+	height: 150px;
+	width: 700px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: var(--backgroudColor);
+}
+.fotoPerfil{
+	margin-top: 5px;
+	margin-left: 5px;
+	position: relative;
+	left: 1%;
+	top: 1%;
+	height: 80px;
+	width: 80px;
+	border-radius: 20px;
+	float: left;
+	background-color: var(--backgroudColorSmooth);
+}
+.fotoPerfil img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+	border-radius: 20px;
+}
+.infoPerfil{
+	margin-top: 5px;
+	float: right;
+	width: 600px;
+	height: 25px;
+}
+.identPerfil{
+	font-size: 18px;
+	height: 70px;
+	width: auto;
+	color: var(--colorBaW);
+}
+.nomePerfil{
+	float: left;
+	color: var(--colorBaW);
+}
+.userPerfil{
+	margin-left: 10px;
+	float: left;
+	opacity: 75%;
+}
+.descricaoPerfil{
+	font-size: 16px;
+	width: 600px;
+	height: 65px;
+	margin-left: 100px;
+	color: var(--colorBaW);
+	word-wrap: normal; /* alterar para normal */
+}
+.icoCam{
+	height: 40px;
+	width: 40px;
+	float: right;
+	margin-right: 10px;
+	margin-top: 20px;
+	background-color: transparent;
+	/*background-image: url(../src/icones/camera.png);*/
+}
+.icoCam img{
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+
+	filter: var(--invertImg);
+}
+.timeLine{
+	margin-top: 300px;
+}
