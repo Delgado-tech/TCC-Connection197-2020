@@ -6,7 +6,6 @@
 
 # Sumário
 > - **<a href="#cadLog">Cadastro/ Login</a>**
-> - **<a href="#cadLog">Sistema de envio de Email**
 > - **<a href="#cadLog">Sistema de Bate-Papo</a>**
 > - **<a href="#cadLog">Sistema de Amizade</a>**
 > - **<a href="#cadLog">Configurações de perfil</a>**
