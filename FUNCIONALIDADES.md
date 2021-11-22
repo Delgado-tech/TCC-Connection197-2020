@@ -19,5 +19,6 @@
 <span id="cadLog">
   
 ### Cadastro/ Login
+> O basíco de qualquer site
 
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
