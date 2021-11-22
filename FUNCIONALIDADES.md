@@ -22,9 +22,9 @@
 <div style="display: inline-block" >
   
 > O basíco de qualquer site <br><br>
-> <img align="center" src="https://user-images.githubusercontent.com/60985347/142931027-143b4bf0-4ae9-474e-baaf-cf8bb3eb572f.png" width="33%" height="500px"/>
-> <img align="center" src="https://user-images.githubusercontent.com/60985347/142930946-067f8f7c-4417-4c8c-9728-a4d9a801c2a9.png" width="33%" height="500px"/>
-> <img align="center" src="https://user-images.githubusercontent.com/60985347/142931255-c307b455-1e68-42f5-9983-e4e956b14a11.png" width="33%" height="500px"/> 
+> <img align="center" src="https://user-images.githubusercontent.com/60985347/142948224-ca48525d-de7a-4b02-b473-257799e40853.png" width="33%"/>
+> <img align="center" src="https://user-images.githubusercontent.com/60985347/142948241-7f837e55-c359-4f69-9820-487583863fb2.png" width="33%"/>
+> <img align="center" src="https://user-images.githubusercontent.com/60985347/142948260-b556da71-c26d-4aa1-a041-46585b50310e.png" width="33%"/> 
   <br><br>
 > Recuperar senha (Se você estiver testando o código, o envio de email só funcionará em uma host online, ou seja, não funcionará em localhost): <br><br>
 > Obs: É mandado um email de verificação antes
