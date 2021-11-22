@@ -19,6 +19,14 @@
 <span id="cadLog">
   
 ### Cadastro/ Login
-> O basíco de qualquer site
+
+<div style="display: inline-block" >
+  
+> O basíco de qualquer site <br><br>
+> <img align="center" src="https://user-images.githubusercontent.com/60985347/142931027-143b4bf0-4ae9-474e-baaf-cf8bb3eb572f.png" width="33%"/>
+> <img align="center" src="https://user-images.githubusercontent.com/60985347/142930946-067f8f7c-4417-4c8c-9728-a4d9a801c2a9.png" width="33%"/>
+> <img align="center" src="https://user-images.githubusercontent.com/60985347/142931255-c307b455-1e68-42f5-9983-e4e956b14a11.png" width="33%"/>
+
+</div>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
