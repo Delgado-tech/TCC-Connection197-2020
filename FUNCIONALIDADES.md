@@ -25,7 +25,10 @@
 > O basíco de qualquer site <br><br>
 > <img align="center" src="https://user-images.githubusercontent.com/60985347/142931027-143b4bf0-4ae9-474e-baaf-cf8bb3eb572f.png" width="33%"/>
 > <img align="center" src="https://user-images.githubusercontent.com/60985347/142930946-067f8f7c-4417-4c8c-9728-a4d9a801c2a9.png" width="33%"/>
-> <img align="center" src="https://user-images.githubusercontent.com/60985347/142931255-c307b455-1e68-42f5-9983-e4e956b14a11.png" width="33%"/>
+> <img align="center" src="https://user-images.githubusercontent.com/60985347/142931255-c307b455-1e68-42f5-9983-e4e956b14a11.png" width="33%"/> 
+  <br><br>
+> Recuperar senha: <br><br>
+> <img align="center" src="https://user-images.githubusercontent.com/60985347/142933283-3e4d1349-edb4-4edd-b109-20c5d5cb994b.png"/>
 
 </div>
 
