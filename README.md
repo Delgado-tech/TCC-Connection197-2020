@@ -21,7 +21,7 @@ Foi o nome do projeto realizado junto de meus colegas referente a escola Etec El
   </tr>
   <!-- row 4 -->
   <tr>
-    <td>Kaylane Figueredo</td>
+    <td>Kaylane Figueiredo</td>
     <td rowspan="2" align="center"><b>Documentação do TCC</b></td>
   </tr>
   <!-- row 5 -->
