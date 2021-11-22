@@ -28,6 +28,7 @@ Cujo objetivo era criar uma rede social para a escola, com a finalidade dos usuÃ
 - Feed de postagens
 - Sistema de level, bandagens, etc.
 - Sistema de tarefas
+- Responsividade
 
 ---
 
