@@ -4,9 +4,10 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139725469-2f2588b8-860e-4488-85f5-b2d3d98cb183.png" width="20%"></div>
 
+<span id="sumario"></span>
 # Sumário
 > - **<a href="#cadLog">Cadastro/ Login</a>**
-> - **<a href="#cadLog">Sistema de Amizade</a>**
+> - **<a href="#amigos">Sistema de Amizade</a>**
 > - **<a href="#chat">Sistema de Bate-Papo</a>**
 > - **<a href="#cadLog">Configurações de perfil</a>**
 > - **<a href="#cadLog">Configurações de privacidade</a>**
@@ -20,7 +21,9 @@
 ### Cadastro/ Login
 
 <div style="display: inline-block" >
-  
+
+> <a href="#sumario">#retornar ao sumário</a>
+
 > O basíco de qualquer site <br><br>
 > <img align="center" src="https://user-images.githubusercontent.com/60985347/142948224-ca48525d-de7a-4b02-b473-257799e40853.png" width="33%"/>
 > <img align="center" src="https://user-images.githubusercontent.com/60985347/142948241-7f837e55-c359-4f69-9820-487583863fb2.png" width="33%"/>
@@ -35,9 +38,11 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
 
-<span id="chat"></span>
+<span id="amigos"></span>
   
 ### Sistema de Amizade
+> <a href="#sumario">#retornar ao sumário</a>
+  
 > Um simples sistema para adicionar pessoas na sua lista de amigos e facilitar na sua busca de usuários
 >
 > Visão de quem enviou:
