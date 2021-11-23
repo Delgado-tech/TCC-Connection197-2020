@@ -30,7 +30,7 @@
 > <img align="center" src="https://user-images.githubusercontent.com/60985347/142948260-b556da71-c26d-4aa1-a041-46585b50310e.png" width="33%"/> 
   <br><br>
 > Recuperar senha (Se você estiver testando o código, o envio de email só funcionará em uma host online, ou seja, não funcionará em localhost): <br><br>
-> Obs: É mandado um email de verificação antes
+> **Obs:** É mandado um email de verificação antes
 > <img align="center" src="https://user-images.githubusercontent.com/60985347/142934058-40515045-8c93-43cd-92df-be1e47e3ddef.png"/>
   
 
@@ -51,3 +51,18 @@
 > ![amigos2](https://user-images.githubusercontent.com/60985347/142953369-2b70325b-5dd8-483a-8c2e-169b7e380952.gif)
 >
   
+  
+<div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
+  
+<span id="chat"></span>
+  
+### Sistema de Bate-Papo
+> <a href="#sumario">#retornar ao sumário</a>
+
+> Bate-Papo simples e de fácil acesso, com aba de emojis <br><br>
+> **Obs:** O Bate-Papo funciona em tempo real, ou seja, o usuário receberá instântaneamente sua mensagem ao você envia-la sem que ele tenha que atualizar a página
+> ![chat](https://user-images.githubusercontent.com/60985347/142954648-ee303613-f3cd-44d3-8eb2-4b4a2a4cd7d0.gif)
+
+  
+<div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
+ 
