@@ -11,8 +11,8 @@
 > - **<a href="#cadLog">Cadastro/ Login</a>**
 > - **<a href="#amigos">Sistema de Amizade</a>**
 > - **<a href="#chat">Sistema de Bate-Papo</a>**
-> - **<a href="#cadLog">Configurações de perfil</a>**
-> - **<a href="#cadLog">Configurações de privacidade</a>**
+> - **<a href="#configPerfil">Configurações de Perfil</a>**
+> - **<a href="#configConta">Configurações de Conta</a>**
 > - **<a href="#cadLog">Temas de site</a>**
 
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
@@ -67,4 +67,34 @@
 
   
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
+  
+<span id="configPerfil"></span>
+  
+### Configurações de Perfil
+> <a href="#sumario">#retornar ao sumário</a>
  
+> Foi implementado para o usuário poder alterar seu nome, biografia e foto de perfil pela aba de configurações
+>
+> ![configPerfil](https://user-images.githubusercontent.com/60985347/142958220-6386a7c9-1de8-4d0a-8ec5-84c7f74d933e.gif) <br><br>
+>
+> Visão de outros usuários:
+> ![configPerfilResult](https://user-images.githubusercontent.com/60985347/142958451-4e7b2fe9-2766-4fb9-bc06-7055a3c1a45e.gif)
+
+
+  
+<div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
+  
+  
+<span id="configConta"></span>
+  
+### Configurações de Conta
+> <a href="#sumario">#retornar ao sumário</a>
+  
+> Dentro das configurações de privacidade você pode escolher o tipo de privacidade da sua conta. <br>
+> Descrição das opções:
+> - **Visualização de perfil:** Deixa seu perfil visível apenas para seus amigos ou para todos
+> - **Visualização de avatar:** Deixa seu avatar visível apenas para seus amigos ou para todos
+> - **Receber solicitações:** Habilita/Desabilita o recebimento de pedidos de amizade
+  
+<div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
+  
