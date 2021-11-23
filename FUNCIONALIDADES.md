@@ -37,9 +37,12 @@
 
 <span id="chat"></span>
   
-### Sistema de Bate-Papo
-
-> ![amigos](https://user-images.githubusercontent.com/60985347/142951365-de7559c8-badc-4ec7-a914-354863756fe1.gif)
+### Sistema de Amizade
+> Um simples sistema para adicionar pessoas na sua lista de amigos e facilitar na sua busca de usuários
 >
+> Visão de quem enviou:
+> ![amigos](https://user-images.githubusercontent.com/60985347/142953364-e99903a7-5ab0-45c3-a7a8-ca383fa57d53.gif) <br><br>
+> Visão de quem recebeu:
+> ![amigos2](https://user-images.githubusercontent.com/60985347/142953369-2b70325b-5dd8-483a-8c2e-169b7e380952.gif)
 >
   
