@@ -90,11 +90,26 @@
 ### Configurações de Conta
 > <a href="#sumario">#retornar ao sumário</a>
   
+> **♢ Privacidade**
+>
 > Dentro das configurações de privacidade você pode escolher o tipo de privacidade da sua conta. <br>
 > Descrição das opções:
 > - **Visualização de perfil:** Deixa seu perfil visível apenas para seus amigos ou para todos
 > - **Visualização de avatar:** Deixa seu avatar visível apenas para seus amigos ou para todos
 > - **Receber solicitações:** Habilita/Desabilita o recebimento de pedidos de amizade
+>
+> ![image](https://user-images.githubusercontent.com/60985347/142960290-b63e2481-04ae-445b-9517-00f5bd80fabb.png) <br><br>
+>
+> **♢ Email/ Senha**
+>
+> Clicando no lápis ao lado do email ou senha, você irá para uma aba de redefinição de email ou senha, ambos tem o mesmo propósito, você clica no botão para enviar um email com um código de verificação, basta colar o código no campo indicado e você poderá alterar seu email ou senha (No caso do email você receberá uma mensagem tanto no email atual, quanto para o novo que você pretende migrar).
+>
+> Redefinição de email:
+> ![image](https://user-images.githubusercontent.com/60985347/142960686-ea12b94b-dd0f-46e0-8218-07116bde147f.png)
+>
+> Redefinição de senha:
+> ![image](https://user-images.githubusercontent.com/60985347/142960719-5a8de02d-26c5-45e7-a9d5-4d178fa1476e.png)
+
   
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
   
