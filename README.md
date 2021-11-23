@@ -7,8 +7,17 @@ Cujo objetivo era criar uma rede social para a escola, com a finalidade dos usu�
   
 </div>
 
+<br>
+
+> Testado tanto em host online, como em host local. Caso queira testar em sua máquina, foi utilizado o programa XAMPP para criar o localhost. <br>
+> - XAMPP Version: 7.4.2 <br>
+> - Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+
+<br>
+
 ##
 ### - Funcionalidades implementadas
+> ▶ <a href="https://github.com/Delgado-tech/TCC-Connection197-2020/blob/main/FUNCIONALIDADES.md#header">Clique aqui para ver prints e breves descrições das funcionalidades implementas</a> ◀
 - Cadastro
 - Login
 - Sistema de envio de Email
