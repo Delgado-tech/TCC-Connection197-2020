@@ -13,7 +13,7 @@
 > - **<a href="#chat">Sistema de Bate-Papo</a>**
 > - **<a href="#configPerfil">Configurações de Perfil</a>**
 > - **<a href="#configConta">Configurações de Conta</a>**
-> - **<a href="#cadLog">Temas de site</a>**
+> - **<a href="#configTemas">Configurações de Aparência</a>**
 
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
 
@@ -113,3 +113,20 @@
   
 <div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
   
+  
+<span id="configTemas"></span>
+  
+### Configurações de Aparência
+> <a href="#sumario">#retornar ao sumário</a>
+   
+> Algumas opções de estilização para o site
+> 
+> ![temas](https://user-images.githubusercontent.com/60985347/142961391-f8bc4cf8-ce68-46b2-afb9-65664663b600.gif)
+
+<br><br><br>
+  
+<div align="center"><a href="#header">#Voltar para o topo</a></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/60985347/139723592-63c80e23-fdaa-4ffc-ae79-0762993afee7.png" width="20%"></div>
+  
+
+ 
