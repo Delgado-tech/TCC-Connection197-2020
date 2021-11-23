@@ -1,5 +1,5 @@
 <span id="header"></span>
-◀ <a href="https://github.com/Delgado-tech/TCC-Connection197-2020/blob/main/README.md">Voltar</a>
+◀ <a href="https://github.com/Delgado-tech/TCC-Connection197-2020">Voltar</a>
 <h1 align="center">Funcionalidades</h1>
 
 > <p align="center"> Prints e breves descrições de funcionalidades implementadas dentro do projeto. </p>
