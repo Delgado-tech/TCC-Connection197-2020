@@ -50,29 +50,35 @@ Cujo objetivo era criar uma rede social para a escola, com a finalidade dos usu�
   <tr>
     <td>Leonardo Delgado</td>
     <td align="center"><b>Back-End</b></td>
+    <td><a href="https://github.com/Delgado-tech"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a></td>
   </tr>
   <!-- row 2 -->
    <tr>
     <td>João Negreiros</td>
      <td rowspan="2" align="center"><b>Front-End</b></td>
+     <td><a href="https://github.com/JoaoNegreiros48"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a></td>
   </tr>
   <!-- row 3 -->
    <tr>
     <td>Vinícius Ramos</td>
+    <td></td>
   </tr>
   <!-- row 4 -->
   <tr>
     <td>Kaylane Figueiredo</td>
     <td rowspan="2" align="center"><b>Documentação do TCC</b></td>
+    <td></td>
   </tr>
   <!-- row 5 -->
    <tr>
     <td>Maria Fernanda</td>
+    <td></td>
   </tr>
   <!-- row 6 -->
    <tr>
     <td>Marcos Paulo</td>
     <td align="center"><b>Marketing nas redes sociais</b></td>
+    <td></td>
   </tr>
   
 </table>
