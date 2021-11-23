@@ -1,3 +1,4 @@
+<span id="header"></span>
 <h1 align="center">Funcionalidades</h1>
 
 > <p align="center"> Prints e breves descrições de funcionalidades implementadas dentro do projeto. </p>
