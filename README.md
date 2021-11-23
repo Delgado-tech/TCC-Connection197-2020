@@ -3,7 +3,7 @@
 <div align="justify">
 Connection197 foi o nome do projeto realizado junto de meus colegas referente a escola Etec Elias Miguel Junior no Trabalho de Conclusão de Curso (TCC) do ano de 2020.
 <br><br>
-Cujo objetivo era criar uma rede social para a escola, com a finalidade dos usuários comunicarem-se mutuamente, além de estabelecer tecnológias para um melhor desempenho nos trabalhos das aulas. O projeto visa melhorar a interação entre alunos e professores e a institução, definindo grupos baseados nos interesses dos participantes. A partir de pesquisas e formulários online, aplicados pelos integrantes do grupo, foram extraídos os resultados base para o projeto e que confirmaram a necessidade de uma rede social educacional. 
+Cujo objetivo era criar uma rede social para a escola, com a finalidade dos usuários comunicarem-se mutuamente, além de estabelecer tecnológias para um melhor desempenho nos trabalhos das aulas. O projeto visava melhorar a interação entre alunos, professores e a institução, definindo grupos baseados nos interesses dos participantes. Foi a partir de pesquisas e formulários online, aplicados pelos integrantes do grupo, que foram extraídos os resultados base para o projeto e que confirmaram a necessidade de uma rede social educacional. 
   
 </div>
 
